@@ -12,22 +12,4 @@ As a future software engineer, I am always seeking new challenges and opportunit
 🌐 Socials:
 LinkedIn
 
-document.addEventListener("DOMContentLoaded", function() {
-    var url = encodeURIComponent(window.location.href); //url
-    var titulo = encodeURIComponent(document.title); //título
-    var linkedinLink = "https://www.linkedin.com/shareArticle?mini=true&url="+url+"&title="+titulo;
-     
-    //tenta obter o conteúdo da meta tag description
-    var summary = document.querySelector("meta[name='description']");
-    summary = (!!summary)? summary.getAttribute("content") : null;
-     
-    //se a meta tag description estiver ausente...
-    if(!summary){
-        //...tenta obter o conteúdo da meta tag og:description
-        summary = document.querySelector("meta[property='og:description']");
-        summary = (!!summary)? summary.getAttribute("content") : null;
-    }
-    //altera o link do botão
-    linkedinLink = (!!summary)? linkedinLink + "&summary=" + encodeURIComponent(summary) : linkedinLink;
-    document.getElementById("linkedin-share-btt").href = linkedinLink;
-}, false);
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
