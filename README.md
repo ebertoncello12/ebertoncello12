@@ -9,7 +9,7 @@ As a future software engineer, I am always seeking new challenges and opportunit
 
 🌐 Socials:
 LinkedIn
-[<img src="{BadgeURLHere}" />](https://github-readme-activity-graph.cyclic.app/graph?ebertoncello12={ebertoncello12})
+(https://github-readme-activity-graph.cyclic.app/graph?ebertoncello12={ebertoncello12})
 💻 Techs: 
 
  [![My Skills](https://skillicons.dev/icons?i=js,java,nodejs,bootstrap,jquery,mysql)](https://skillicons.dev)
