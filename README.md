@@ -12,4 +12,4 @@ As a future software engineer, I am always seeking new challenges and opportunit
 🌐 Socials:
 LinkedIn
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,java,nodejs,bootstrap,jquery,mysql)](https://skillicons.dev)
