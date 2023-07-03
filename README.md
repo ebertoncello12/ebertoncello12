@@ -8,8 +8,9 @@ As a future software engineer, I am always seeking new challenges and opportunit
 📊 GitHub Stats:
 
 💻 Techs:
+[![My Skills](https://skillicons.dev/icons?i=js,java,nodejs,bootstrap,jquery,mysql)](https://skillicons.dev)
 
 🌐 Socials:
 LinkedIn
 
-[![My Skills](https://skillicons.dev/icons?i=js,java,nodejs,bootstrap,jquery,mysql)](https://skillicons.dev)
+
