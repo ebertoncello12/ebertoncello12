@@ -21,6 +21,6 @@ As a future software engineer, I am always seeking new challenges and opportunit
 LinkedIn
 
 
- <a href="your-linkedin-URL">
+ <a href="https://www.linkedin.com/in/enzzo-ferrari-099138238/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
