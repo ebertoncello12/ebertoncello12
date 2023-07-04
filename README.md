@@ -6,23 +6,26 @@
 // # -*- coding: utf-8 -*-
 
 class EngenheiroDeSoftware {
-  constructor(nome, cargo, linguagens) {
+  constructor(nome, idade, cargo, experiencia) {
     this.nome = nome;
+    this.idade = idade;
     this.cargo = cargo;
-    this.linguagens = linguagens;
+    this.experiencia = experiencia;
   }
 
-  saudacao() {
-    console.log(`Obrigado por passar por aqui, espero que você ache meu trabalho e projetos interessante.`);
+  apresentar() {
+    console.log(`👋 Olá! Eu sou o(a) ${this.nome} (${this.idade} anos), um(a) ${this.cargo} com ${this.experiencia} de experiência.`);
+    console.log(`💡 Tenho interesse em desenvolvimento de software, algoritmos e sistemas web.`);
+    console.log(`🎯 Meu objetivo é aprender e evoluir profissionalmente, buscando as melhores práticas para construir aplicações web de alta qualidade.`);
+    console.log(`🔧 Tenho habilidades em resolução de problemas, trabalho em equipe e comunicação efetiva.`);
+    console.log(`💻 Algumas das tecnologias que domino incluem JavaScript, Java, HTML, CSS, Git e MySQL.`);
+    console.log(`✉️ Você pode entrar em contato comigo pelo e-mail: seuemail@example.com.`);
   }
 }
 
-const eu = new EngenheiroDeSoftware();
-eu.nome = "Enzzo Ferrari Bertoncello";
-eu.cargo = "Estudante de Engenharia de Software";
-eu.linguagens = ["pt_BR", "en_US"];
+const eu = new EngenheiroDeSoftware("Seu Nome", 20, "Estudante de Engenharia de Software", "2 semestres");
+eu.apresentar();
 
-eu.saudacao();
 
 ```
 
