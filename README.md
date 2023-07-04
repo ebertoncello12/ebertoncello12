@@ -28,3 +28,5 @@ I'm Enzzo, a 20-year-old Software Engineering student with 2 semesters of experi
 
 
 <span class="pl-c">#!/usr/bin/python</span>
+<span class="pl-k">class</span>
+<span class="pl-v">SoftwareEngineer</span>
