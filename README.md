@@ -24,8 +24,8 @@ I'm Enzzo, a 20-year-old Software Engineering student with 2 semesters of experi
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-class SoftwareEngineer:
 
+class SoftwareEngineer:
     def __init__(self):
         self.name = "Zhenye Na"
         self.role = "Software Engineer"
