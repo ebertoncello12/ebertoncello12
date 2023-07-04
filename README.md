@@ -9,7 +9,7 @@ As a future software engineer, I am always seeking new challenges and opportunit
 
 🌐 Socials:
 LinkedIn
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={ebertoncello12}
+[![Reactjs](https://github-readme-stats.vercel.app/api/pin/?username=ebertoncello12&repo=react&show_owner=true)](https://github.com/facebook/react)
 💻 Techs: 
 
  [![My Skills](https://skillicons.dev/icons?i=js,java,nodejs,bootstrap,jquery,mysql)](https://skillicons.dev)
