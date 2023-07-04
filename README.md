@@ -24,6 +24,29 @@ I'm Enzzo, a 20-year-old Software Engineering student with 2 semesters of experi
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
+class Rectangle {
+  constructor(width, height) {
+    this.width = width;
+    this.height = height;
+  }
+
+  calculateArea() {
+    return this.width * this.height;
+  }
+
+  calculatePerimeter() {
+    return 2 * (this.width + this.height);
+  }
+}
+
+// Create a rectangle object
+const myRectangle = new Rectangle(5, 3);
+
+// Access properties and methods
+console.log('Width:', myRectangle.width);
+console.log('Height:', myRectangle.height);
+console.log('Area:', myRectangle.calculateArea());
+console.log('Perimeter:', myRectangle.calculatePerimeter());
 
 
 
