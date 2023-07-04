@@ -19,7 +19,7 @@ class EngenheiroDeSoftware {
     console.log(`🎯 Meu objetivo é aprender e evoluir profissionalmente, buscando as melhores práticas para construir aplicações web de alta qualidade.`);
     console.log(`🔧 Tenho habilidades em resolução de problemas, trabalho em equipe e comunicação efetiva.`);
     console.log(`💻 Algumas das tecnologias que domino incluem JavaScript, Java, HTML, CSS, Git e MySQL.`);
-    console.log(`✉️ Você pode entrar em contato comigo pelo e-mail: seuemail@example.com.`);
+    console.log(`✉️ Você pode entrar em contato comigo pelo e-mail: enzzoferrarib@hotmail.com.`);
   }
 }
 
