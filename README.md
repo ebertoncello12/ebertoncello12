@@ -1,11 +1,41 @@
 👋 Hello there
 ```javascript
-// Exemplo de código em JavaScript
-function helloWorld() {
-  console.log("Olá, mundo!");
+class EngenheiroDeSoftware {
+  constructor(nome, idade, cargo, experiencia, interesses, objetivo, habilidades, trabalhoEmEquipe, resolucaoProblemas, comunicacao, tecnologias) {
+    this.nome = nome;
+    this.idade = idade;
+    this.cargo = cargo;
+    this.experiencia = experiencia;
+    this.interesses = interesses;
+    this.objetivo = objetivo;
+    this.habilidades = habilidades;
+    this.trabalhoEmEquipe = trabalhoEmEquipe;
+    this.resolucaoProblemas = resolucaoProblemas;
+    this.comunicacao = comunicacao;
+    this.tecnologias = tecnologias;
+  }
+
+  apresentar() {
+    console.log(`Meu nome é ${this.nome} e tenho ${this.idade} anos. Sou ${this.cargo} com ${this.experiencia} de experiência. Tenho interesse em ${this.interesses.join(", ")} e busco sempre aprender e evoluir profissionalmente. Possuo conhecimentos em ${this.habilidades.join(", ")} e sou capaz de trabalhar em equipe, solucionar problemas e me comunicar efetivamente. Estou animado para colaborar em projetos que envolvam o desenvolvimento de aplicações web e serviços, utilizando tecnologias como ${this.tecnologias.join(", ")}.`);
+  }
 }
 
-helloWorld();
+// Exemplo de utilização dos dados
+const enzzo = new EngenheiroDeSoftware(
+  "Enzzo",
+  20,
+  "Estudante de Engenharia de Software",
+  "2 semestres",
+  ["desenvolvimento em engenharia de software", "algoritmos", "sistemas web", "serviços"],
+  "Aprender e evoluir profissionalmente, buscando as melhores práticas para a construção de aplicações web de alta qualidade.",
+  ["banco de dados", "processo de desenvolvimento de sistemas"],
+  true,
+  true,
+  true,
+  ["Java", "JavaScript", "Git", "Github", "Node.js", "HTML", "CSS", "Bootstrap", "MySQL", "APIs"]
+);
+
+enzzo.apresentar();
 
 ```
 
