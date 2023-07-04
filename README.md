@@ -11,7 +11,7 @@ As a future software engineer, I am always seeking new challenges and opportunit
 LinkedIn
 
 
-https://github-readme-stats.vercel.app/api?username=ebertoncello12
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ebertoncello12)
 
 
 💻 Techs: 
