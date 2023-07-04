@@ -8,8 +8,8 @@ As a future software engineer, I am always seeking new challenges and opportunit
 📊 GitHub Stats:
 
 🌐 Socials:
-LinkedIn
-https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={ebertoncello12}&theme={dark}
+[LinkedIn
+https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={ebertoncello12}&theme={dark}](https://github-readme-stats.vercel.app/api/top-langs/?username={ebertoncello12})
 💻 Techs: 
 
  [![My Skills](https://skillicons.dev/icons?i=js,java,nodejs,bootstrap,jquery,mysql)](https://skillicons.dev)
