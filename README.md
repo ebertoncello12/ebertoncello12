@@ -24,28 +24,16 @@ I'm Enzzo, a 20-year-old Software Engineering student with 2 semesters of experi
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-class EngenheiroDeSoftware {
-  constructor(nome, idade, experiencia, habilidades) {
-    this.nome = nome;
-    this.idade = idade;
-    this.experiencia = experiencia;
-    this.habilidades = habilidades;
-  }
+class SoftwareEngineer:
 
-  sayOla() {
-    console.log(`Olá! Sou o ${this.nome}, um estudante de Engenharia de Software com ${this.idade} anos.`);
-    console.log(`Tenho ${this.experiencia} semestre(s) de experiência, estágio e projetos no meu currículo.`);
-    console.log(`Tenho um grande interesse em desenvolvimento de software, algoritmos, sistemas web e serviços.`);
-    console.log(`Estou sempre buscando aprender e evoluir profissionalmente, seguindo as melhores práticas para construir aplicações web de alta qualidade.`);
-    console.log(`Minhas habilidades incluem: ${this.habilidades.join(", ")}.`);
-  }
-}
+    def __init__(self):
+        self.name = "Zhenye Na"
+        self.role = "Software Engineer"
+        self.language_spoken = ["zh_CN", "en_US"]
 
-const enzzo = new EngenheiroDeSoftware(
-  "Enzzo",
-  20,
-  "2",
-  ["Java", "JavaScript", "Git", "GitHub", "Node.js", "HTML", "CSS", "Bootstrap", "MySQL", "APIs"]
-);
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
 
-enzzo.sayOla();
+
+me = SoftwareEngineer()
+me.say_hi()
