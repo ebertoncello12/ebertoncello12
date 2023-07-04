@@ -1,5 +1,8 @@
 👋 Hello there
-```javascript  #!/usr/bin/javascript # -*- coding: utf-8 -*-
+
+/usr/bin/javascript # -*- coding: utf-8 -*-
+
+```javascript 
 
 class EngenheiroDeSoftware {
   constructor(nome, cargo, linguagens) {
