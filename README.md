@@ -16,7 +16,13 @@ class EngenheiroDeSoftware {
   }
 
   apresentar() {
-    console.log(`Meu nome é ${this.nome} e tenho ${this.idade} anos. Sou ${this.cargo} com ${this.experiencia} de experiência. Tenho interesse em ${this.interesses.join(", ")} e busco sempre aprender e evoluir profissionalmente. Possuo conhecimentos em ${this.habilidades.join(", ")} e sou capaz de trabalhar em equipe, solucionar problemas e me comunicar efetivamente. Estou animado para colaborar em projetos que envolvam o desenvolvimento de aplicações web e serviços, utilizando tecnologias como ${this.tecnologias.join(", ")}.`);
+console.log(`Meu nome é ${this.nome} e tenho ${this.idade} anos. Sou ${this.cargo} com ${this.experiencia} de experiência.
+Tenho interesse em ${this.interesses.join(", ")} e busco sempre aprender e evoluir profissionalmente.
+Possuo conhecimentos em ${this.habilidades.join(", ")} 
+e sou capaz de trabalhar em equipe, 
+solucionar problemas e me comunicar efetivamente.
+Estou animado para colaborar em projetos que envolvam o desenvolvimento de aplicações web e serviços,
+utilizando tecnologias como ${this.tecnologias.join(", ")}.`);
   }
 }
 
