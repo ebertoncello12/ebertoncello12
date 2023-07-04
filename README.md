@@ -23,7 +23,7 @@ class EngenheiroDeSoftware {
   }
 }
 
-const eu = new EngenheiroDeSoftware("Seu Nome", 20, "Estudante de Engenharia de Software", "2 semestres");
+const eu = new EngenheiroDeSoftware("Enzzo Ferrari Bertoncello", 20, "Estudante de Engenharia de Software", "2 semestres");
 eu.apresentar();
 
 
