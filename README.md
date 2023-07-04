@@ -8,7 +8,7 @@ As a future software engineer, I am always seeking new challenges and opportunit
 📊 GitHub Stats:
 
 
-https://github-readme-stats.vercel.app/api?username=ebertoncello12&theme=blue-green
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ebertoncello12)
 
 
 
