@@ -25,6 +25,21 @@ I'm Enzzo, a 20-year-old Software Engineering student with 2 semesters of experi
   </a>
 
 
+```
+class SoftwareEngineer {
+  constructor() {
+    this.name = "Zhenye Na";
+    this.role = "Software Engineer";
+    this.language_spoken = ["zh_CN", "en_US"];
+  }
+
+  say_hi() {
+    console.log("Thanks for dropping by, hope you find some of my work interesting.");
+  }
+}
+
+const me = new SoftwareEngineer();
+me.say_hi();
 
 
 
