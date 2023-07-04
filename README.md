@@ -1,9 +1,6 @@
 👋 Hi there
 
-I'm Enzzo, a 20-year-old student of Software Engineering with 2 semesters of experience, including internships and several projects. I have a strong interest in software engineering, utilizing algorithms, web systems, and services. My goal is to continuously learn and grow professionally, following best practices to build high-quality web applications.
-Throughout my projects and courses, I have acquired extensive knowledge in database management and the software development process. This enables me to participate in the entire project lifecycle, from conception to the delivery of the final product. Additionally, I excel in teamwork, problem-solving, and effective communication with all team members, ensuring quality work within established deadlines.
-As a future software engineer, I am always seeking new challenges and opportunities to advance in my career. I am excited to contribute to projects involving web application and service development, utilizing technologies such as Java, JavaScript, Git, GitHub, Node.js, HTML, CSS, Bootstrap, MySQL, and APIs.
-As a future software engineer, I am always seeking new challenges and opportunities to advance in my career. I am excited to collaborate on projects involving software development.
+I'm Enzzo, a 20-year-old Software Engineering student with 2 semesters of experience in internships and projects. My interests lie in software engineering, algorithms, web systems, and services. I strive to continuously learn and grow professionally, adhering to best practices for building high-quality web applications. I have extensive knowledge in database management and the software development process, allowing me to contribute throughout the entire project lifecycle. I excel in teamwork, problem-solving, and effective communication to ensure timely and quality deliverables. As a future software engineer, I eagerly seek new challenges and opportunities to advance my career. I'm excited to contribute to web application and service development projects, utilizing technologies such as Java, JavaScript, Git, GitHub, Node.js, HTML, CSS, Bootstrap, MySQL, and APIs.
 
 📊 GitHub Stats:
 
