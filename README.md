@@ -37,8 +37,10 @@ I'm Enzzo, a 20-year-old Software Engineering student with 2 semesters of experi
 📊 GitHub Stats:
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ebertoncello12)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=)
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebertoncello12)](https://github.com/ebertoncello12/github-readme-stats)
 
 
 💻 Techs: 
